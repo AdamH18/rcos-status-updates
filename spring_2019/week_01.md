@@ -1,23 +1,15 @@
 ## Last Week's Accomplishments
 
-> In this section, you can write about what you accomplished in the previous week.
-
-> This past week, I was able to implement the the dialog box for creating a new user in the front end. I \
-> learned how to send requests in JavaScript to the backend API.
+> This past week I didn't get much done as I was waiting for code I would work on to be uploaded to Github.
 
 ## This Week's Plan
 
-> In this section, you can write about what you have planned for next week.
-
-> After my accomplishments from last week, I plan to add accessibility features to the user creation dialog box. \
-> I also plan on attending the git workshop this week.
+> I plan on working on the code that I now have access to on Github. In particular, I will be building a dataset \
+> out of a MIDI file that will consist of vectors of the amount each note is played over a measure interval.
 
 ## Anything Blocking?
 
-> In this section, you can write about any blockers that you are having trouble in the project.
-
-> I don't know how to test the accessibility features I am going to be implementing this week, so i am going to \
-> ask my mentors if they have any suggestions.
+> No blockers as I haven't gotten to work yet and don't know if I'll run into issues.
 
 ## Notes
 
